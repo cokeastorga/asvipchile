@@ -1,0 +1,35 @@
+<footer class="bg-black text-white py-10 px-6">
+  <div class="max-w-7xl mx-auto grid gap-6 md:grid-cols-3">
+    <!-- About -->
+  <div>
+      <h3 class="text-xl font-semibold mb-3">ASVip</h3>
+      <p class="text-gray-400 text-sm">
+Servicio de transporte premium en Chile. Nos especializamos en traslados VIP, tours privados y experiencias personalizadas con comodidad, seguridad y elegancia.      </p>
+    </div>
+
+    <!-- Links -->
+    <div>
+      <h3 class="text-xl font-semibold mb-3">Enlaces Rapidos</h3>
+      <ul class="space-y-2 text-sm">
+        <li><a href="/" class="hover:text-green-400 transition">Inicio</a></li>
+        <li><a href="#services" class="hover:text-green-400 transition">Servicios</a></li>
+        <li><a href="#contact" class="hover:text-green-400 transition">Contacto</a></li>
+        <li><a href="/en" class="hover:text-green-400 transition">English</a></li>
+      </ul>
+    </div>
+
+    <!-- Contact -->
+    <div>
+      <h3 class="text-xl font-semibold mb-3">Contacto</h3>
+      <p class="text-sm text-gray-400">
+        📞 +569 9641 3813<br />
+        ✉️ sayala@asvipchile.cl<br />
+        📍 Santiago, Chile
+      </p>
+    </div>
+  </div>
+
+  <div class="text-center text-sm text-gray-500 mt-10 border-t border-gray-700 pt-4">
+    &copy; {new Date().getFullYear()} CC IT&Solutions. Todos los derechos reservados.
+  </div>
+</footer>
