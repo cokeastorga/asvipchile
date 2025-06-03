@@ -18,7 +18,7 @@
   ];
 </script>
 
-<section id="servicios" class="bg-white py-16 px-6 text-gray-800">
+<section id="services" class="bg-white py-16 px-6 text-gray-800">
   <div class="max-w-7xl mx-auto text-center">
     <h2 class="text-6xl font-bold mb-8">Nuestros Servicios</h2>
     <div class="grid md:grid-cols-3 gap-8">

@@ -1,4 +1,4 @@
-<section id="contacto" class="bg-white text-gray-800 py-16 px-6 md:px-20">
+<section id="contact" class="bg-white text-gray-800 py-16 px-6 md:px-20">
   <div class="max-w-4xl mx-auto text-center">
     <h2 class="text-6xl font-bold mb-4">Contáctanos</h2>
     <p class="mb-8 text-gray-600">¿Tienes dudas o deseas una cotización personalizada? Escríbenos y te responderemos a la brevedad.</p>

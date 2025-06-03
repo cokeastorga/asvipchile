@@ -23,7 +23,7 @@
   }
 </script>
 
-<section id="book" class="relative py-24 text-white">
+<section id="reservar" class="relative py-24 text-white">
   <!-- 🎥 Background Video -->
   <video autoplay muted loop playsinline class="absolute inset-0 w-full h-full object-cover z-0">
     <source src="/video.mp4" type="video/mp4" />
