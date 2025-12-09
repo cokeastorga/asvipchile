@@ -31,6 +31,15 @@
   </div>
 
   <div class="text-center text-sm text-gray-500 mt-10 border-t border-gray-700 pt-4">
-    &copy; {new Date().getFullYear()} CC IT&Solutions. All rights reserved.
-  </div>
+  &copy; {new Date().getFullYear()} 
+  <a 
+    href="https://ccsolution.cl" 
+    target="_blank" 
+    rel="noopener noreferrer" 
+    class="hover:underline hover:text-gray-300"
+  >
+    CC IT&Solutions
+  </a>. 
+  Todos los derechos reservados.
+</div>
 </footer>

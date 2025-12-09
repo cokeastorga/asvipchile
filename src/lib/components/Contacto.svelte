@@ -6,10 +6,10 @@
     <div class="grid gap-6 md:grid-cols-2 text-left">
       <div>
         <h3 class="font-semibold mb-2">Teléfono</h3>
-        <p class="mb-4">+56 9 1234 5678</p>
+        <p class="mb-4">+56 9641 3813</p>
         
         <h3 class="font-semibold mb-2">Correo electrónico</h3>
-        <p class="mb-4">contacto@asvip.cl</p>
+        <p class="mb-4">sayala@asvipchile.cl</p>
 
         <h3 class="font-semibold mb-2">Dirección</h3>
         <p>Las Condes, Santiago, Chile</p>
