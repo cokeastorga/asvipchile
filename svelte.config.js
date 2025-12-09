@@ -1,21 +1,12 @@
-import adapter from '@sveltejs/adapter-static';
+import adapter from '@sveltejs/adapter-vercel'; // Cambiado de adapter-static
 import preprocess from 'svelte-preprocess';
 
 const config = {
   preprocess: preprocess(),
   kit: {
-    adapter: adapter({
-      pages: 'build',
-      assets: 'build',
-      fallback: 'index.html',
-      precompress: false
-    }),
-    paths: {
-      base: process.env.BASE_PATH ?? ''
-    },
-    prerender: {
-      entries: ['*', '/', '/es', '/en'] // Asegura que todas las rutas se generen
-    }
+    // adapter-vercel es "zero-config" en Vercel.
+    // No necesitas definir 'pages' o 'assets', él lo maneja solo.
+    adapter: adapter() 
   }
 };
 
